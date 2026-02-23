@@ -1,0 +1,34 @@
+node_modules/
+dist/
+build/
+/.vite
+/.turbo
+*.log
+.DS_Store
+.env
+.env.*
+.idea/
+.vscode/
+/*.local
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+/.pnp
+/.pnp.js
+/.cache
+/.output
+
+# Mac
+__MACOSX/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode
+.history/
